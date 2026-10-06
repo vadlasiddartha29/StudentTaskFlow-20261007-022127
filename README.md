@@ -1,0 +1,1 @@
+# StudentTaskFlow\n\nA modern, minimalist student task manager.\n\n## Setup\n1. `npm install`\n2. `npm run dev`\n\n## Features\n- Task CRUD\n- Status toggling\n- Responsive design
